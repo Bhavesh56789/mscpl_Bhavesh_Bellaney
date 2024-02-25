@@ -1,2 +1,3 @@
-# mscpl_bhavesh_bellaney
- 
+# Flutter Clean Code And Architexture
+
+A Flutter app with login otp based
